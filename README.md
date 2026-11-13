@@ -104,10 +104,6 @@ const ryan = {
   <img src="https://streak-stats.demolab.com/?user=raretutal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raretutal&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" />
-</p>
-
 ---
 
 <!-- ========================= QUOTE ========================= -->
